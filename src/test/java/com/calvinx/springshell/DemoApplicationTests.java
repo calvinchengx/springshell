@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.calvinx.springshell;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -17,6 +17,7 @@ class DemoApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("Sanity check on ApplicationContext");
 		System.out.println("##########");
 		System.out.println(context);
 		System.out.println("##########");

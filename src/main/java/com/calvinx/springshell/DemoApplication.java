@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.calvinx.springshell;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

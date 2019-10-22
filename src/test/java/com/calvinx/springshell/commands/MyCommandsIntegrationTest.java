@@ -1,4 +1,4 @@
-package com.example.demo.commands;
+package com.calvinx.springshell.commands;
 
 import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.core.Is.is;
@@ -10,7 +10,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Map;
 
-import com.example.demo.TestApplicationRunner;
+import com.calvinx.springshell.TestApplicationRunner;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;

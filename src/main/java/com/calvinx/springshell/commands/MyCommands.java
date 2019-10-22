@@ -1,4 +1,4 @@
-package com.example.demo.commands;
+package com.calvinx.springshell.commands;
 
 import org.springframework.shell.standard.ShellComponent;
 import org.springframework.shell.standard.ShellMethod;

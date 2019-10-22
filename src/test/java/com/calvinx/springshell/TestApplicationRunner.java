@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.calvinx.springshell;
 
 import org.jline.reader.ParsedLine;
 import org.jline.reader.Parser;
